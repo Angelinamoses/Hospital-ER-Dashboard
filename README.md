@@ -42,3 +42,4 @@ These insights support decisions around staffing, workflow optimization, and res
 
 ## 📁 Repository Structure
 
+https://github.com/Angelinamoses/Hospital-ER-Dashboard/blob/0fc6555436b58a2d173294a405e971e9555c62ab/2025-12-03%20(6).png
