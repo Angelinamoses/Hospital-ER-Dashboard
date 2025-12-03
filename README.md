@@ -1,4 +1,4 @@
-# 🏥 Emergency Room Performance Dashboard  
+# Emergency Room Performance Dashboard  
 **Power BI | Healthcare Analytics | Data Visualization**
 
 This project analyzes Emergency Room (ER) performance using real hospital workflow data.  
@@ -6,7 +6,7 @@ The goal is to understand patient flow, identify bottlenecks, and highlight oper
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 Emergency departments run under constant pressure. This dashboard brings clarity by visualizing:  
 - Patient volume trends  
 - Triage category distribution  
@@ -18,7 +18,7 @@ The dashboard helps clinicians and admins make faster, data-driven decisions tha
 
 ---
 
-## 🧠 Key Insights  
+## Key Insights  
 - Peak ER traffic hours and days  
 - Which triage categories consume the most resources  
 - Patterns in patient waiting times  
@@ -29,7 +29,7 @@ These insights support decisions around staffing, workflow optimization, and res
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 - **Power BI** (data modeling + visualization)  
 - **CSV Dataset** (uploaded in repository)  
 - **Data Cleaning & Preprocessing** done inside Power BI  
